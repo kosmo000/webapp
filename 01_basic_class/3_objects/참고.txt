@@ -1,0 +1,8 @@
+
+HTTP(Hyper Text Transfer Protocol)
+	- 웹브라우저와 웹서버 간에 통신하는 규칙
+	
+	- 특징
+		1) Connecctionless
+		2) Stateless
+		
